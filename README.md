@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johncardozo
-- 👀 I’m interested in software development in Python and Javascript
-- 🌱 I’m currently learning AWS SAM, Amazon DynamoDB and Vue 3
+- 👀 I’m interested in Software Development in Python and Javascript
 - 📫 How to reach me: johncardozo@gmail.com
 
 <!---
