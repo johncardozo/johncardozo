@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johncardozo
-- 👀 I’m interested in Software Engineering.
-- Tools I use: Javascript & Python
+- 👀 I’m interested in Software Engineering + Cloud Computing
+- Tools I use: FRONTEND: Javascript, Vue, React, Storybook, CSS, Tailwind - GENERAL PURPOSE: Python - CLOUD: AWS
 - 📫 How to reach me: johncardozo@gmail.com
 
 <!---
